@@ -67,5 +67,5 @@ The project is organized into the following components:
 - Enhance the GUI with more advanced features like logging status changes.
 
 ## Author
-
 Created by **Helina Semu**.
+Inspired by ibrahim_magdy from Arduino Project Hub.
