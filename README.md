@@ -18,7 +18,7 @@ The Python GUI interacts with the Arduino via serial communication, displaying t
 ## Project Structure
 
 The project is organized into the following components:
-- `Alert_system.ino` - Arduino sketch controlling the LED, buzzer, and LCD.
+- `Alert_system_project.ino` - Arduino sketch controlling the LED, buzzer, and LCD.
 - `Alert_system_GUI.py` - Python script for the Tkinter-based GUI that communicates with the Arduino.
 - `Circuit_diagram.png` - Circuit diagram showing the wiring for the Arduino, LCD, LEDs, and buttons.
 - `Setup_picture.png` - Picture of the hardware setup for guidance.
